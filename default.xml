@@ -4,6 +4,6 @@
            fetch=".." />
   <default revision="master"
            remote="origin" sync-j="2" />
-  <project path="package" name="childa" revision="master" />
-  <project path="package" name="childb" revision="master" />
+  <project path="a" name="childa" revision="master" />
+  <project path="b" name="childb" revision="master" />
 </manifest>
