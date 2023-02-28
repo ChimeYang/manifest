@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="origin"
-           fetch="D:\Develop\RepoSpecific" />
+           fetch="git@github.com:ChimeYang/" />
   <default revision="master"
            remote="origin" sync-j="2" />
-  <project path="a" name="childa" revision="master" />
-  <project path="b" name="childb" revision="master" />
-  <project name="childc" revision="master" />
+  <project name="childa" revision="master" />
+  <project name="childb" revision="master" />
 </manifest>
