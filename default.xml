@@ -6,4 +6,5 @@
            remote="origin" sync-j="2" />
   <project path="a" name="childa" revision="master" />
   <project path="b" name="childb" revision="master" />
+  <project name="childc" revision="master" />
 </manifest>
